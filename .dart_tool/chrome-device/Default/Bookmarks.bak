@@ -1,0 +1,49 @@
+{
+   "checksum": "b526c71d8a01f9a23453e1cfd5738d3d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13331277089903932",
+            "date_last_used": "0",
+            "guid": "46606d47-4f99-4bc1-8caf-4d300c0661c2",
+            "id": "6",
+            "name": "ash123",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "http://localhost:51939/#/"
+         } ],
+         "date_added": "13331275182237398",
+         "date_last_used": "0",
+         "date_modified": "13331277089903932",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331275182237406",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331275182237408",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

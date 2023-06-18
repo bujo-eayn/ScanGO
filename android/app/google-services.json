@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "279599943939",
+    "project_id": "scango-26160",
+    "storage_bucket": "scango-26160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279599943939:android:b48ce0035cddde5d9b9936",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279599943939-ucoov05cc36hrini12djro5e8i2vjjd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa-2IAofZ6Cew87YXvbXlbCrCtSPELMz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279599943939-0nf9n712v4rt0tcm8an41d0geojqljqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279599943939-3ffcdidscvj2lfjqirrvthg899esrrv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.complete"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

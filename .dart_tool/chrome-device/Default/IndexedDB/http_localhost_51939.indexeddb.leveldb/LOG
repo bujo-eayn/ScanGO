@@ -1,0 +1,53 @@
+2023/06/15-06:59:43.703 3dfc Creating DB C:\Users\jobia\AppData\Local\Temp\flutter_tools.8c14a57f\flutter_tools_chrome_device.f491e00f\Default\IndexedDB\http_localhost_51939.indexeddb.leveldb since it was missing.
+2023/06/15-06:59:43.712 3dfc Reusing MANIFEST C:\Users\jobia\AppData\Local\Temp\flutter_tools.8c14a57f\flutter_tools_chrome_device.f491e00f\Default\IndexedDB\http_localhost_51939.indexeddb.leveldb/MANIFEST-000001
+2023/06/15-06:59:43.725 3dfc Level-0 table #5: started
+2023/06/15-06:59:43.731 3dfc Level-0 table #5: 690 bytes OK
+2023/06/15-06:59:43.734 3dfc Delete type=0 #3
+2023/06/15-06:59:43.735 3dfc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-06:59:58.686 3dfc Level-0 table #7: started
+2023/06/15-06:59:58.690 3dfc Level-0 table #7: 3425 bytes OK
+2023/06/15-06:59:58.693 3dfc Delete type=0 #4
+2023/06/15-06:59:58.693 4a10 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-07:03:02.303 3dfc Level-0 table #9: started
+2023/06/15-07:03:02.318 3dfc Level-0 table #9: 1295 bytes OK
+2023/06/15-07:03:02.328 3dfc Delete type=0 #6
+2023/06/15-07:03:02.329 3dfc Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 239 : 1
+2023/06/15-07:03:02.329 3dfc Compacting 1@0 + 1@1 files
+2023/06/15-07:03:02.334 3dfc Generated table #10@0: 116 keys, 2114 bytes
+2023/06/15-07:03:02.334 3dfc Compacted 1@0 + 1@1 files => 2114 bytes
+2023/06/15-07:03:02.337 3dfc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-07:03:02.338 3dfc Delete type=2 #9
+2023/06/15-07:03:02.338 3cdc Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 239 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-07:03:17.969 2098 Level-0 table #12: started
+2023/06/15-07:03:17.973 2098 Level-0 table #12: 1293 bytes OK
+2023/06/15-07:03:17.976 2098 Delete type=2 #7
+2023/06/15-07:03:17.976 2098 Delete type=0 #8
+2023/06/15-07:03:17.978 3cdc Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 282 : 1
+2023/06/15-07:03:17.978 3cdc Compacting 1@0 + 1@1 files
+2023/06/15-07:03:17.981 3cdc Generated table #13@0: 132 keys, 2351 bytes
+2023/06/15-07:03:17.981 3cdc Compacted 1@0 + 1@1 files => 2351 bytes
+2023/06/15-07:03:17.983 3cdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-07:03:17.984 3cdc Delete type=2 #12
+2023/06/15-07:03:17.985 3cdc Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 282 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-07:29:19.636 3dfc Level-0 table #15: started
+2023/06/15-07:29:19.640 3dfc Level-0 table #15: 3319 bytes OK
+2023/06/15-07:29:19.643 3dfc Delete type=2 #10
+2023/06/15-07:29:19.643 3dfc Delete type=0 #11
+2023/06/15-07:29:19.645 3cdc Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 339 : 1
+2023/06/15-07:29:19.645 3cdc Compacting 1@0 + 1@1 files
+2023/06/15-07:29:19.648 3cdc Generated table #16@0: 146 keys, 4266 bytes
+2023/06/15-07:29:19.648 3cdc Compacted 1@0 + 1@1 files => 4266 bytes
+2023/06/15-07:29:19.649 3cdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-07:29:19.650 3cdc Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 339 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/15-07:29:25.366 3dfc Level-0 table #18: started
+2023/06/15-07:29:25.369 3dfc Level-0 table #18: 1288 bytes OK
+2023/06/15-07:29:25.371 3dfc Delete type=2 #13
+2023/06/15-07:29:25.371 3dfc Delete type=0 #14
+2023/06/15-07:29:25.371 3dfc Delete type=2 #15
+2023/06/15-07:29:25.373 3dfc Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 382 : 1
+2023/06/15-07:29:25.373 3dfc Compacting 1@0 + 1@1 files
+2023/06/15-07:29:25.377 3dfc Generated table #19@0: 162 keys, 4488 bytes
+2023/06/15-07:29:25.377 3dfc Compacted 1@0 + 1@1 files => 4488 bytes
+2023/06/15-07:29:25.378 3dfc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-07:29:25.379 3dfc Delete type=2 #18
+2023/06/15-07:29:25.380 3cdc Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 382 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
